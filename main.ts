@@ -1,7 +1,7 @@
 'use strict';
 
 import { Application, Context } from "https://deno.land/x/oak/mod.ts";
-import "npm:websocket-polyfill"
+//import "npm:websocket-polyfill"
 import {
     nip19,
     relayInit,
